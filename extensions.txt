@@ -1,0 +1,34 @@
+ **Code Editing and Formatting**
+ Auto Rename Tag
+ ES7 + React/Redux/React-Native Snippets
+ Prettier - Code Formatter
+ ESLint
+ Multiple Cursor Case Preserve
+
+
+**Version Control and Collaboration Extensions**
+ Git Graph
+ Git Lens
+Live Share
+
+
+
+**Developer Experience**
+ Peacock
+ Material Icon Theme
+Next.nav
+ Tailwind CSS Intellisense
+Markdown Preview Enhanced
+Live Server
+Console Ninja
+
+**AI Models**
+Codium
+Tabnine
+Continue - Codestral, Claude
+
+**VS Code Theme**
+Default
+Ayu 
+Dracula
+One Dark Pro
